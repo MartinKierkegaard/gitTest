@@ -10,6 +10,11 @@ namespace gitTest
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Test");
+
+            Console.WriteLine("Er nu på develop branch");
+
         }
     }
 }
